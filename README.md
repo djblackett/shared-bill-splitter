@@ -67,3 +67,7 @@ Diana owes Elon 6.98
 Diana owes Frank 6.11
 Elon owes Ann 0.60
 ```
+
+
+The codebase contains some code related to graphs and graph traversal. The implementation of these features are incomplete and will be finished at a later date. 
+
