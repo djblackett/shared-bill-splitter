@@ -1,7 +1,9 @@
 # shared-bill-splitter
 
+
 List of commands
-`> help
+```
+> help
 balance
 borrow
 cashBack
@@ -12,3 +14,4 @@ purchase
 repay
 secretSanta
 writeOff`
+```
